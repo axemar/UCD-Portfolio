@@ -1,10 +1,10 @@
 # UCD MSc Advanced AI Projects Portfolio
 
-Welcome to my **GitHub University College Dublin Portfolio** !
+Welcome to my **University College Dublin GitHub Portfolio** !
 
 Here are gathered all the academic projects  I completed during my **MSc Advanced Artificial Intelligence** at UCD.
 
-This repository mainly contains Jupyter notebooks `.ipynb` that are implementations of core concepts learned throughout my studies at UCD.
+This repository mainly contains Jupyter notebooks `.ipynb` that are implementations of the concepts learned.
 
 ## Objective
 
@@ -14,7 +14,7 @@ The objective of this portfolio is to:
 - Provide clear explanations of my methodologies and results
 - Track my progress and learning throughout my MSc degree
 
-## UCD Modules
+## Modules
 
 All of the projects on this portfolio are built based around some learning concepts of the UCD MSc AAI's modules.
 
