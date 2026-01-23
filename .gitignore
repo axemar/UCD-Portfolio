@@ -216,3 +216,6 @@ __marimo__/
 
 # VS Code
 .vscode/
+
+# GitHub
+.github/

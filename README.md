@@ -1,11 +1,10 @@
 # UCD MSc Advanced AI Projects Portfolio
 
-Welcome to my **GitHub UCD Portfolio** !
+Welcome to my **GitHub University College Dublin Portfolio** !
 
-Here are gathers all the academic projects  I completed during my **Master of Science Advanced Artificial Intelligence** at University College Dublin.
+Here are gathered all the academic projects  I completed during my **MSc Advanced Artificial Intelligence** at UCD.
 
-This repository mainly contains Jupyter notebooks `.ipynb` developed as part of my coursework.  
-These works are implementations of core concepts learned throughout my studies at UCD.
+This repository mainly contains Jupyter notebooks `.ipynb` that are implementations of core concepts learned throughout my studies at UCD.
 
 ## Objective
 
@@ -45,41 +44,41 @@ All of the projects on this portfolio are built based around some learning conce
 
 ## Projects
 
-#### Advanced Machine Learning
+### Advanced Machine Learning
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
    - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Technologies Used:** Work in progress
+   - **Objectives:** Work in progress
 
-#### Computer Vision And Imaging
+### Computer Vision And Imaging
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
    - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Technologies Used:** Work in progress
+   - **Objectives:** Work in progress
 
-#### Foundations Deep Learning
+### Foundations Deep Learning
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
    - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Technologies Used:** Work in progress
+   - **Objectives:** Work in progress
 
-#### Optimisation
+### Optimisation
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
    - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Technologies Used:** Work in progress
+   - **Objectives:** Work in progress
 
 ## Directory Structure
 
@@ -87,20 +86,16 @@ All of the projects on this portfolio are built based around some learning conce
 UCD-Portfolio
 ┣ AdvancedMachineLearning
 ┃ ┣ Lab1.ipynb
-┃ ┣ …
-┃ ┗ LabX.ipynb
+┃ ┗ Lab2.ipynb
 ┣ ComputerVisionAndImaging
 ┃ ┣ Lab1.ipynb
-┃ ┣ …
-┃ ┗ LabX.ipynb
+┃ ┗ Lab2.ipynb
 ┣ FoundationsDeepLearning
 ┃ ┣ Lab1.ipynb
-┃ ┣ …
-┃ ┗ LabX.ipynb
+┃ ┗ Lab2.ipynb
 ┣ Optimisation
 ┃ ┣ Lab1.ipynb
-┃ ┣ …
-┃ ┗ LabX.ipynb
+┃ ┗ Lab2.ipynb
 ┣ .gitignore
 ┣ LICENSE
 ┗ README.md
