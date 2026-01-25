@@ -74,8 +74,7 @@ All of the projects on this portfolio are built based around some learning conce
 ### Optimisation
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Work in progress
-   - **Objectives:** Work in progress
+   - **Description:** Use the GLPK solver to model and solve LP problems following the simplex method.
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
    - **Objectives:** Work in progress
