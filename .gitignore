@@ -219,3 +219,6 @@ __marimo__/
 
 # GitHub
 .github/
+
+# Personnal audits
+audits/

@@ -1,10 +1,10 @@
 # UCD MSc Advanced AI Projects Portfolio
 
-Welcome to my **University College Dublin GitHub Portfolio** !
+Welcome to my University College Dublin **GitHub Portfolio** !
 
-Here are gathered all the academic projects  I completed during my **MSc Advanced Artificial Intelligence** at UCD.
+Here are gathered all the labs and projects I completed during my **MSc Advanced Artificial Intelligence** at UCD.
 
-This repository mainly contains Jupyter notebooks `.ipynb` that are implementations of the concepts learned.
+This repository mainly contains Jupyter notebooks `.ipynb` representing my initial, hands-on implementations of the concepts learned.
 
 ## Objective
 
@@ -21,8 +21,8 @@ All of the projects on this portfolio are built based around some learning conce
 #### Advanced Machine Learning
 
 - Focused on advanced and state-of-the-art machine learning methods, including deep learning, ensemble models, unsupervised and semi-supervised learning, reinforcement learning, and human-in-the-loop systems.  
-- Developed the ability to select, implement, and evaluate appropriate ML algorithms using Python-based toolkits.  
-- Emphasized critical understanding of algorithmic design, performance evaluation, and the societal impact of machine learning.
+- Developed the ability to implement, and evaluate appropriate ML algorithms using Python-based toolkits.  
+- Emphasized critical understanding of algorithmic design, performance evaluation, and societal impact.
 
 #### Computer Vision And Imaging
 
@@ -39,7 +39,7 @@ All of the projects on this portfolio are built based around some learning conce
 #### Optimisation
 
 - Introduced core optimisation techniques, including linear and integer programming, convex optimisation, and gradient-based methods used in modern AI systems.  
-- Developed the ability to model and solve real-world optimisation problemsin terms of linear programming and integer linear programming and to apply the basic optimisation techniques to solve machine learning problems.  
+- Developed the ability to model and solve real-world optimisation problems (linear programming and integer linear programming) and to apply the basic optimisation techniques to solve machine learning problems.  
 - Built a solid understanding of convex optimisation foundations underlying machine learning and deep learning algorithms, including gradient-based approaches and its variants.
 
 ## Projects
@@ -48,36 +48,31 @@ All of the projects on this portfolio are built based around some learning conce
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Objectives:** Work in progress
 
 ### Computer Vision And Imaging
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Objectives:** Work in progress
 
 ### Foundations Deep Learning
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Objectives:** Work in progress
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
-   - **Objectives:** Work in progress
 
 ### Optimisation
 
-1. [Lab1](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Use the GLPK solver to model and solve LP problems following the simplex method.
-2. [Lab2](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Work in progress
-   - **Objectives:** Work in progress
+1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
+   - **Description:** Use of the **GLPK solver** to model and solve LP problems following the simplex method.
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
+   - **Description:** Use of the **graphical method** (plot the constraints, the feasible space, and the optimal point) to solve LP problems following the simplex method.
+3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
+   - **Description:** Use of the **simplex tableaux method** to solve LP problems following the simplex method.
 
 ## Directory Structure
 
@@ -94,7 +89,8 @@ UCD-Portfolio
 ┃ ┗ Lab2.ipynb
 ┣ Optimisation
 ┃ ┣ Lab1.ipynb
-┃ ┗ Lab2.ipynb
+┃ ┣ Lab2.ipynb
+┃ ┗ Lab3.ipynb
 ┣ .gitignore
 ┣ LICENSE
 ┗ README.md
