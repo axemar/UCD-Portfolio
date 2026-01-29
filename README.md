@@ -73,6 +73,8 @@ All of the projects on this portfolio are built based around some learning conce
    - **Description:** Use of the **graphical method** (plot the constraints, the feasible space, and the optimal point) to solve LP problems following the simplex method.
 3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
    - **Description:** Use of the **simplex tableaux method** to solve LP problems following the simplex method.
+4. [Lab4](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
+   - **Description:** Use of the **duality theorem** (bounded, unbounded, infeasible) to solve primal/dual LP problems following the simplex method.
 
 ## Directory Structure
 
@@ -90,7 +92,8 @@ UCD-Portfolio
 ┣ Optimisation
 ┃ ┣ Lab1.ipynb
 ┃ ┣ Lab2.ipynb
-┃ ┗ Lab3.ipynb
+┃ ┣ Lab3.ipynb
+┃ ┗ Lab4.ipynb
 ┣ .gitignore
 ┣ LICENSE
 ┗ README.md
