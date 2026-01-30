@@ -75,6 +75,16 @@ All of the projects on this portfolio are built based around some learning conce
    - **Description:** Use of the **simplex tableaux method** to solve LP problems following the simplex method.
 4. [Lab4](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
    - **Description:** Use of the **duality theorem** (bounded, unbounded, infeasible) to solve primal/dual LP problems following the simplex method.
+5. [Lab5](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation)
+   - **Description:** Formulation of the **binary integer program** to solve ILP problems following the Branch & Bound algorithm and the LP Relaxation method.
+
+### Optimisation
+
+1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **GLPK solver** to model and solve LP problems following the simplex method.
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **graphical method** (plot the constraints, the feasible space, and the optimal point) to solve LP problems following the simplex method.
+3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **simplex tableaux method** to solve LP problems following the simplex method.
+4. [Lab4](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **duality theorem** (bounded, unbounded, infeasible) to solve primal/dual LP problems following the simplex method.
+5. [Lab5](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Formulation of the **binary integer program** to solve ILP problems following the Branch & Bound algorithm and the LP Relaxation method.
 
 ## Directory Structure
 
