@@ -60,8 +60,8 @@ All of the projects on this portfolio are built based around some learning conce
 
 ### Foundations Deep Learning
 
-1. [Lab1](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Work in progress
+1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/FoundationsDeepLearning)
+   - **Description:** Creation of a **logistic regression classification model** from **scratch** (with forward_prop, back_prop & gradient_descent).
 2. [Lab2](https://github.com/axemar/UCD-Portfolio)
    - **Description:** Work in progress
 
