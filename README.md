@@ -46,10 +46,10 @@ All of the projects on this portfolio are built based around some learning conce
 
 ### Advanced Machine Learning
 
-1. [Lab1](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Work in progress
-2. [Lab2](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Work in progress
+1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning)
+   - **Description:** Implementation of the **Random**, **Greedy**, $\boldsymbol{\varepsilon}$**-Greedy**, $\boldsymbol{\varepsilon}$**-First** and $\boldsymbol{\varepsilon}$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning)
+   - **Description:** Work in progress 
 
 ### Computer Vision And Imaging
 
@@ -61,9 +61,9 @@ All of the projects on this portfolio are built based around some learning conce
 ### Foundations Deep Learning
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/FoundationsDeepLearning)
-   - **Description:** Creation of a **logistic regression classification model** from **scratch** (with forward_prop, back_prop & gradient_descent).
-2. [Lab2](https://github.com/axemar/UCD-Portfolio)
-   - **Description:** Work in progress
+   - **Description:** Creation of an **iterative algorithm** from **scratch** to learn how to discriminate images using a **logistic regression classification model**.
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/FoundationsDeepLearning)
+   - **Description:** Creation of a **Single Layer Feedforward Neural Network** from **scratch** to learn highly **non-linear detection regions**.
 
 ### Optimisation
 
