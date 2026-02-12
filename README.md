@@ -32,13 +32,23 @@ The objective of this portfolio is to:
 
 2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of the **Random**, **Greedy**, $\boldsymbol{\varepsilon}$**-Greedy**, $\boldsymbol{\varepsilon}$**-First** and $\boldsymbol{\varepsilon}$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
 
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of the **Random**, **Greedy**, $\Large \varepsilon$**-Greedy**, $\Large \varepsilon$**-First** and $\Large \varepsilon$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
+
 Option 1 : $\boldsymbol{\varepsilon}$**-Decreasing**
 
 Option 1b : $\varepsilon$**-Decreasing**
 
-Option 2 : $\boldsymbol{\epsilon}$**-Decreasing**
+Option 1 : $\boldsymbol{\displaystyle \varepsilon}$**-Decreasing**
 
-Option 2b : $\epsilon$**-Decreasing**
+Option 1b : $\displaystyle \varepsilon$**-Decreasing**
+
+$\varepsilon$
+
+$\large \varepsilon$
+
+$\Large \varepsilon$
+
+$\huge \varepsilon$
 
 ---
 
@@ -85,7 +95,7 @@ Option 2b : $\epsilon$**-Decreasing**
 
 2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **graphical method** (plot the constraints, the feasible space, and the optimal point) to solve **LP problems** following the simplex method.
 
-3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **simplex tableaux method** to solve LP problems throught multiple iterations, highlighting **intermediate basis and feasible space**.
+3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **simplex tableaux method** to solve LP problems throught multiple iterations, highlighting **intermediate basis** and **feasible space**.
 
 4. [Lab4](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **duality theorem** (bounded, unbounded, infeasible) to solve **primal & dual** LP problems following the simplex method.
 
@@ -113,6 +123,8 @@ UCD-Portfolio
 ┣ LICENSE
 ┗ README.md
 ```
+
+New files will be added soon.
 
 ## Notes
 
