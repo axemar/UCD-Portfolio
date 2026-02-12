@@ -25,35 +25,15 @@ The objective of this portfolio is to:
 - Focused on advanced and state-of-the-art machine learning methods, including deep learning, ensemble models, unsupervised and semi-supervised learning, reinforcement learning, and human-in-the-loop systems.  
 - Developed the ability to implement, and evaluate appropriate ML algorithms using Python-based toolkits.  
 - Emphasized critical understanding of algorithmic design, performance evaluation, and societal impact.
-
 <br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of a **Random Forest Classifier** model on the **fashion-mnist** dataset, then use of a **Grid Search CV** to find the best parameters.
 
-2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of the **Random**, **Greedy**, $\boldsymbol{\varepsilon}$**-Greedy**, $\boldsymbol{\varepsilon}$**-First** and $\boldsymbol{\varepsilon}$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
-
 2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of the **Random**, **Greedy**, $\Large \varepsilon$**-Greedy**, $\Large \varepsilon$**-First** and $\Large \varepsilon$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
-
-Option 1 : $\boldsymbol{\varepsilon}$**-Decreasing**
-
-Option 1b : $\varepsilon$**-Decreasing**
-
-Option 1 : $\boldsymbol{\displaystyle \varepsilon}$**-Decreasing**
-
-Option 1b : $\displaystyle \varepsilon$**-Decreasing**
-
-$\varepsilon$
-
-$\large \varepsilon$
-
-$\Large \varepsilon$
-
-$\huge \varepsilon$
 
 ---
 
 ### Computer Vision And Imaging
-
 <br>
 
 - Focused on applying modern AI and deep learning techniques to vision and imaging tasks, including image classification, object detection, segmentation, and enhancement.  
@@ -72,7 +52,6 @@ $\huge \varepsilon$
 - Introduced the core principles of modern deep learning, covering neural network fundamentals.  
 - Developed practical skills in designing, training, and evaluating deep learning models for computer vision and natural language processing using frameworks such as PyTorch and TensorFlow.  
 - Explored advanced architectures including CNNs, RNNs, Transformers, and generative models (VAEs, GANs, diffusion), with a critical assessment of their strengths and limitations.
-
 <br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/FoundationsDeepLearning) : Creation of an **iterative algorithm** from **scratch** to learn how to discriminate images using a **logistic regression classification model**.
@@ -88,7 +67,6 @@ $\huge \varepsilon$
 - Introduced core optimisation techniques, including convex optimisation, linear and integer programming.  
 - Developed the ability to model and solve real-world optimisation problems (linear programming and integer linear programming) and to apply the basic optimisation techniques to solve machine learning problems.  
 - Built a solid understanding of convex optimisation foundations underlying machine learning and deep learning algorithms, including gradient-based approaches and its variants.
-
 <br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Introduction to **Julia/JuMP** and use of the **GLPK solver** to model and solve **LP problems** following the simplex method.
