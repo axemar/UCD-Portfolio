@@ -25,7 +25,6 @@ The objective of this portfolio is to:
 - Focused on advanced and state-of-the-art machine learning methods, including deep learning, ensemble models, unsupervised and semi-supervised learning, reinforcement learning, and human-in-the-loop systems.  
 - Developed the ability to implement, and evaluate appropriate ML algorithms using Python-based toolkits.  
 - Emphasized critical understanding of algorithmic design, performance evaluation, and societal impact.
-<br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of a **Random Forest Classifier** model on the **fashion-mnist** dataset, then use of a **Grid Search CV** to find the best parameters.
 
@@ -40,7 +39,6 @@ The objective of this portfolio is to:
 - Focused on applying modern AI and deep learning techniques to vision and imaging tasks, including image classification, object detection, segmentation, and enhancement.  
 - Developed hands-on experience with state-of-the-art architectures such as CNNs, Vision Transformers, and generative models (GANs, diffusion), using transfer learning and fine-tuning strategies.  
 - Built the ability to evaluate vision models, interpret their behavior, and assess their strengths/limitations.
-<br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/ComputerVisionAndImaging) : Development of a **mini Vision Pipeline**: an image filter that applies a vintage sepia tone with vignetting, as well as a ‘Cool Blue Film’ style, combining **color shift, brightness adjustment, and a soft Gaussian blur**.
 
@@ -67,8 +65,6 @@ The objective of this portfolio is to:
 - Introduced core optimisation techniques, including convex optimisation, linear and integer programming.  
 - Developed the ability to model and solve real-world optimisation problems (linear programming and integer linear programming) and to apply the basic optimisation techniques to solve machine learning problems.  
 - Built a solid understanding of convex optimisation foundations underlying machine learning and deep learning algorithms, including gradient-based approaches and its variants.
-
-$\newline$
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Introduction to **Julia/JuMP** and use of the **GLPK solver** to model and solve **LP problems** following the simplex method.
 
