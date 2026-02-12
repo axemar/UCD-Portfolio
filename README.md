@@ -6,6 +6,8 @@ Here are gathered all the labs and projects I completed during my **MSc Advanced
 
 This repository contains Jupyter notebooks showcasing my initial hands-on implementations of learned concepts.
 
+All of the projects on this portfolio are built based around some learning concepts of the UCD MSc AAI's modules.
+
 ## Objective
 
 The objective of this portfolio is to:
@@ -16,7 +18,7 @@ The objective of this portfolio is to:
 
 ## Projects
 
-All of the projects on this portfolio are built based around some learning concepts of the UCD MSc AAI's modules.
+
 
 ### Advanced Machine Learning
 
@@ -29,6 +31,22 @@ All of the projects on this portfolio are built based around some learning conce
 <br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of a **Random Forest Classifier** model on the **fashion-mnist** dataset, then use of a **Grid Search CV** to find the best parameters.
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of the **Random**, **Greedy**, $\boldsymbol{\varepsilon}$**-Greedy**, $\boldsymbol{\varepsilon}$**-First** and $\boldsymbol{\varepsilon}$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
+
+---
+
+### Advanced Machine Learning
+
+<br>
+
+- Focused on advanced and state-of-the-art machine learning methods, including deep learning, ensemble models, unsupervised and semi-supervised learning, reinforcement learning, and human-in-the-loop systems.  
+- Developed the ability to implement, and evaluate appropriate ML algorithms using Python-based toolkits.  
+- Emphasized critical understanding of algorithmic design, performance evaluation, and societal impact.
+
+<br>
+
+1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of a **Random Forest Classifier** model on the **fashion-mnist** dataset, then use of a **Grid Search CV** to find the best parameters.
+
 2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/AdvancedMachineLearning) : Implementation of the **Random**, **Greedy**, $\boldsymbol{\varepsilon}$**-Greedy**, $\boldsymbol{\varepsilon}$**-First** and $\boldsymbol{\varepsilon}$**-Decreasing** strategies for the Reinforcement Learning **$k$-armed** bandit policy experiment.
 
 ---
