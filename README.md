@@ -34,6 +34,7 @@ The objective of this portfolio is to:
 ---
 
 ### Computer Vision And Imaging
+
 <br>
 
 - Focused on applying modern AI and deep learning techniques to vision and imaging tasks, including image classification, object detection, segmentation, and enhancement.  
@@ -52,7 +53,6 @@ The objective of this portfolio is to:
 - Introduced the core principles of modern deep learning, covering neural network fundamentals.  
 - Developed practical skills in designing, training, and evaluating deep learning models for computer vision and natural language processing using frameworks such as PyTorch and TensorFlow.  
 - Explored advanced architectures including CNNs, RNNs, Transformers, and generative models (VAEs, GANs, diffusion), with a critical assessment of their strengths and limitations.
-<br>
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/FoundationsDeepLearning) : Creation of an **iterative algorithm** from **scratch** to learn how to discriminate images using a **logistic regression classification model**.
 
@@ -67,7 +67,8 @@ The objective of this portfolio is to:
 - Introduced core optimisation techniques, including convex optimisation, linear and integer programming.  
 - Developed the ability to model and solve real-world optimisation problems (linear programming and integer linear programming) and to apply the basic optimisation techniques to solve machine learning problems.  
 - Built a solid understanding of convex optimisation foundations underlying machine learning and deep learning algorithms, including gradient-based approaches and its variants.
-<br>
+
+$\newline$
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Introduction to **Julia/JuMP** and use of the **GLPK solver** to model and solve **LP problems** following the simplex method.
 
