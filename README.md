@@ -42,7 +42,7 @@ The objective of this portfolio is to:
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/ComputerVisionAndImaging) : Development of a **mini Vision Pipeline**: an image filter that applies a vintage sepia tone with vignetting, as well as a ‘Cool Blue Film’ style, combining **color shift, brightness adjustment, and a soft Gaussian blur**.
 
-2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/ComputerVisionAndImaging) : Demonstration of **image filtering** by coding convolution from scratch, comparing **spatial** and **frequency methods**, analyzing **noise, edges, motion**, and **blur**, then experimenting with **custom kernels, sharpening**, and **derivative filters**.
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/ComputerVisionAndImaging) : Demonstration of **image filtering** concepts from scratch, comparing **spatial/frequency methods**, analyzing **noise, edges, motion**, and **blur**, then reviewing **custom kernels, sharpening**, and **derivative filters**.
 
 ---
 
