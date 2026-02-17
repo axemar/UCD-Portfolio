@@ -42,6 +42,8 @@ The objective of this portfolio is to:
 
 1. [Lab1](https://github.com/axemar/UCD-Portfolio/tree/main/ComputerVisionAndImaging) : Development of a **mini Vision Pipeline**: an image filter that applies a vintage sepia tone with vignetting, as well as a ‘Cool Blue Film’ style, combining **color shift, brightness adjustment, and a soft Gaussian blur**.
 
+2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/ComputerVisionAndImaging) : Demonstration of **image filtering** by coding convolution from scratch, comparing **spatial** and **frequency methods**, analyzing **noise, edges, motion**, and **blur**, then experimenting with **custom kernels, sharpening**, and **derivative filters**.
+
 ---
 
 ### Foundations Deep Learning
@@ -70,7 +72,7 @@ The objective of this portfolio is to:
 
 2. [Lab2](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **graphical method** (plot the constraints, the feasible space, and the optimal point) to solve **LP problems** following the simplex method.
 
-3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **simplex tableaux method** to solve LP problems throught multiple iterations, highlighting **intermediate basis** and **feasible space**.
+3. [Lab3](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **simplex tableaux method** to solve LP problems through multiple iterations, highlighting **intermediate basis** and **feasible space**.
 
 4. [Lab4](https://github.com/axemar/UCD-Portfolio/tree/main/Optimisation) : Use of the **duality theorem** (bounded, unbounded, infeasible) to solve **primal & dual** LP problems following the simplex method.
 
@@ -84,7 +86,8 @@ UCD-Portfolio
 ┃ ┣ Lab1.ipynb
 ┃ ┗ Lab2.ipynb
 ┣ ComputerVisionAndImaging
-┃ ┗ Lab1.ipynb
+┃ ┣ Lab1.ipynb
+┃ ┗ Lab2.ipynb
 ┣ FoundationsDeepLearning
 ┃ ┣ Lab1.ipynb
 ┃ ┗ Lab2.ipynb
